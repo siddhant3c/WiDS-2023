@@ -37,3 +37,4 @@ Get Acquainted with neural networks and the math behind it. You need not underst
 * [If you want video lectures](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB) </br>
 * [Building neural networks from scratch in Python](https://medium.com/hackernoon/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b) Go through how neural networks were implemented long before libraries existed. </br>
 * [PyTorch For Beginners](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) (You do not need to watch the entire playlist) <br/>
+* [Andrew Ng's Lectures for Machine Learning](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&si=AuRQywAxT-_bdSO3)<br/>
