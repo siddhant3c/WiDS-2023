@@ -38,3 +38,15 @@ Get Acquainted with neural networks and the math behind it. You need not underst
 * [Building neural networks from scratch in Python](https://medium.com/hackernoon/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b) Go through how neural networks were implemented long before libraries existed. </br>
 * [PyTorch For Beginners](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) (You do not need to watch the entire playlist) <br/>
 * [Andrew Ng's Lectures for Machine Learning](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&si=AuRQywAxT-_bdSO3)<br/>
+### Assignment 1 and 2
+Find the Assignment 1 [here](https://colab.research.google.com/drive/1mdV2FyO0Ket1TX0sxLNAx_zQuqwZCmVF?usp=sharing) <br/>
+Dataset for Assignment 2 can be downloaded from [here](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression) <br/>
+
+Some instructions and important points:
+* For Assignment 1, Go to the link and copy the file to your drive <br/>
+![instruction](https://github.com/siddhant3c/WiDS-2023/assets/119072231/079d25c0-3f4a-4e2b-b78d-1052bc6e9d57)<br/>
+* For Assignment 1, Follow the instructions mentioned in the file.
+* For Assignment 2, use `from sklearn.linear_model import LogisticRegression, LinearRegression` and `from sklearn.metrics import mean_absolute_error, mean_absolute_percentage_error, mean_squared_error`. Use them to make a linear regression model and also for computing evaluation metrics. Train the model on the given dataset, and perform some EDA before model training.
+* For both assignments, you need to submit your code (one .ipynb file for each assignment)
+* The submission for both assignments would be via a single google form. (Link will be shared soon)
+* Deadline is 31st Dec
