@@ -49,4 +49,15 @@ Some instructions and important points:
 * For Assignment 2, use `from sklearn.linear_model import LogisticRegression, LinearRegression` and `from sklearn.metrics import mean_absolute_error, mean_absolute_percentage_error, mean_squared_error`. Use them to make a linear regression model and also for computing evaluation metrics. Train the model on the given dataset, and perform some EDA before model training.
 * For both assignments, you need to submit your code (one .ipynb file for each assignment)
 * The submission for both assignments would be via a single google form. (Link will be shared soon)
-* Deadline is 31st Dec
+* Deadline is 1st Jan
+
+
+## Week 3
+### Aim
+This week is for you to develop an understanding of Convolutional Neural Networks (CNNs). Also, we will perform EDA on the dataset, and will pre-process the data to handle class imbalance. Here is what to keep in mind- we want a binary classification model, and thus need only 2 classes. You will need to merge the 3 tumor classes into a single class. Think of various data augmentation techniques you can use to overcome the imbalance.
+### Important Links
+* [Binary Classification using CNNs](https://medium.com/@mayankverma05032001/binary-classification-using-convolution-neural-network-cnn-model-6e35cdf5bdbb) </br>
+* [Convolutional Neural Network(CNN) with Practical Implementation](https://medium.com/machine-learning-researcher/convlutional-neural-network-cnn-2fc4faa7bb63)
+* [Brain Tumor MRI dataset](https://drive.google.com/file/d/1yh7nSiDYAmNUsDcvEOtGBSdVHipvQ0-d/view?usp=sharing)</br>
+* [nn.Module Documentation](https://pytorch.org/docs/stable/nn.html) </br>
+* [Implementation of a CNN based Image Classifier using PyTorch](https://www.geeksforgeeks.org/implementation-of-a-cnn-based-image-classifier-using-pytorch) </br>
