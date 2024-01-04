@@ -61,3 +61,8 @@ This week is for you to develop an understanding of Convolutional Neural Network
 * [Brain Tumor MRI dataset](https://drive.google.com/file/d/1yh7nSiDYAmNUsDcvEOtGBSdVHipvQ0-d/view?usp=sharing)</br>
 * [nn.Module Documentation](https://pytorch.org/docs/stable/nn.html) </br>
 * [Implementation of a CNN based Image Classifier using PyTorch](https://www.geeksforgeeks.org/implementation-of-a-cnn-based-image-classifier-using-pytorch) </br>
+
+### Assignment 3
+* Download [assignment_3.ipynb](), make a copy of it and complete it. Make sure to build two models (linear and CNN based)
+* Both models will have same training function
+* Deadline is 9th Jan, form link to be shared soon.
