@@ -15,7 +15,6 @@ Basic Python Skills and a lot of Enthusiasm to learn about Deep Learning and Neu
 | Week 2 | Learn ML basics, Neural Networks, get familiar with PyTorch |
 | Week 3 | Learn about CNNs, EDA (Exploratory Data Analysis) and Data pre-processing |
 | Week 4 | Building and Training the model, Fine Tuning model hyper-parameters, Model Evaluation and Inference |
-| Week 5 | Buffer week, Final Report preparation |
 
 # Resources
 ## Week 1
@@ -66,3 +65,27 @@ This week is for you to develop an understanding of Convolutional Neural Network
 * Download [assignment_3.ipynb](https://github.com/siddhant3c/WiDS-2023/blob/main/Assignment_3.ipynb), make a copy of it and complete it. Make sure to build two models (linear and CNN based)
 * Both models will have same training function
 * Deadline is 9th Jan, form link to be shared soon.
+
+## Week 4
+### Aim
+In this week your task is to build a classification model for the final project.
+
+* The dataset link has been provided within the week 3 resources. The initial step entails visualizing the data, wherein it becomes apparent that there exist four classes with unevenly distributed examples.
+
+Participants have the flexibility to choose between two options:
+
+1. Binary Classification
+2. Multiclass Classification
+
+| **Binary Classification** | Multiclass Classificatin | 
+| :---   | :--- |
+| Consolidate the three tumor classes into a singular class. Subsequently, execute data augmentation to equalize the number of training and test data samples for both classes | Implement data augmentation to ensure uniformity in the number of samples across all classes |
+
+Subsequently, the following procedures are applicable to both scenarios:
+
+1. Attribute target labels to the input training data.
+2. Divide the data into training, validation, and test sets.
+3. Construct the network architecture, with the freedom to set hyperparameters according to individual preferences.
+4. Conduct training and validation on the model, and assess its performance using various evaluation metrics such as F1 score, ROC, etc.
+
+**15th Jan** is the final project submission deadline (as per the Analytics Club)
